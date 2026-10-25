@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm D'Andre Walden</h1>
-<h3 align="center">Pursuing IT Help Desk and Support opportunities | Growing toward Identity and Access Management</h3>
+<h3 align="center">Aspiring IT Support Professional | Future IAM Analyst</h3>
 
 
 I bring 5+ years of customer service experience and am transitioning into IT support. My goal is to combine my experience helping people with practical troubleshooting and user account management skills.
