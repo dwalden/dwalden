@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS cloud computing**
+- 🌱 I’m currently learning **Active Directory and IT support fundamentals**, with a long-term focus on **Identity and Access Management (IAM)**.
 
 - 📫 How to reach me **dandre.walden@gmail.com**
 
