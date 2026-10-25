@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm D'Andre Walden</h1>
-<h3 align="center">A passionate cybersecurity professional from Atlanta, GA.</h3>
+<h3 align="center">Pursuing IT Help Desk and Support opportunities | Growing toward Identity and Access Management</h3>
 
 
 
