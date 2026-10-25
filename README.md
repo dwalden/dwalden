@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing IT Help Desk and Support opportunities | Growing toward Identity and Access Management</h3>
 
 
-
+I bring 5+ years of customer service experience and am transitioning into IT support. My goal is to combine my experience helping people with practical troubleshooting and user account management skills.
 
 - 🌱 I’m currently learning **Active Directory and IT support fundamentals**, with a long-term focus on **Identity and Access Management (IAM)**.
 
